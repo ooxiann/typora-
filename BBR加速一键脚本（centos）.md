@@ -2,7 +2,7 @@
 
 http://loonlog.com/2019/10/12/v2ray-bbr/
 
-**一键脚本（仅CentOS）：**
+==**一键脚本（仅CentOS）：**==
 
 wget "https://github.com/cx9208/bbrplus/raw/master/ok_bbrplus_centos.sh" && chmod +x ok_bbrplus_centos.sh && ./ok_bbrplus_centos.sh
 
